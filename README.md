@@ -1,4 +1,4 @@
-**Edward Loo**
+#**Edward Loo**
 
 - 👋 Hi, I am Edward Loo
 - 👀 I am interested in general knowledge and engineering.
