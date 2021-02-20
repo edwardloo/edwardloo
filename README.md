@@ -8,7 +8,7 @@
 This account is created as a record of personal development and outcome.
 It is not for any commercial usage and neither it is for public.
 ```
-```html
+```python
 <span style="color:blue">some *blue* text</span>.
 ```
 
