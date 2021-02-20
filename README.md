@@ -8,8 +8,9 @@
 This account is created as a record of personal development and outcome.
 It is not for any commercial usage and neither it is for public.
 ```
-
+```HTML
 <span style="color:blue">some *blue* text</span>.
+```
 
 <!---
 edwardloo/edwardloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
