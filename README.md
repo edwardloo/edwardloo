@@ -16,7 +16,7 @@ It is not for any commercial usage and neither it is for public.
 - ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+) `#00ff00`
 - ![#00ffff](https://via.placeholder.com/15/00ffff/000000?text=+) `#00ffff`
 
-
+<img src="edwardloo/UM logo.png">
 
 <!---
 edwardloo/edwardloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
