@@ -16,6 +16,10 @@ It is not for any commercial usage and neither it is for public.
 - ![#00ff00](https://via.placeholder.com/15/00ff00/000000?text=+) `#00ff00`
 - ![#00ffff](https://via.placeholder.com/15/00ffff/000000?text=+) `#00ffff`
 
+Format|Example
+------|-------
+\![Alt Txt/Caption]\(url) content|```  ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`  ```
+
 ## Placing Images
 <img src="UM logo.png" width=400>
 
