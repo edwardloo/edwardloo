@@ -20,8 +20,13 @@ Format|Example
 ------|-------
 \![Alt Txt/Caption]\(url) content|```  ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`  ```
 
-## Placing Images
+## Placing Image
 <img src="UM logo.png" width=400>
+
+## Checklist
+- [ ] FYP - Projection directly on real and imaginary part of FRF
+- [ ] Automation - Prof. Chehade
+- [ ] Book
 
 <!---
 edwardloo/edwardloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
