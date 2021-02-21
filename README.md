@@ -9,6 +9,11 @@ This account is created as a record of personal development and outcome.
 It is not for any commercial usage and neither it is for public.
 ```
 
+## Checklist
+- [ ] FYP - Projection directly on real and imaginary part of FRF
+- [ ] Automation - Prof. Chehade
+- [ ] Book
+
 ## References on coloring | [HTML Hex Color Code](https://www.geeksforgeeks.org/html-hex-color-codes/)
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 - ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
@@ -23,10 +28,7 @@ Format|Example
 ## Placing Image
 <img src="UM logo.png" width=400>
 
-## Checklist
-- [ ] FYP - Projection directly on real and imaginary part of FRF
-- [ ] Automation - Prof. Chehade
-- [ ] Book
+
 
 <!---
 edwardloo/edwardloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
