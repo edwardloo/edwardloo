@@ -10,7 +10,8 @@ It is not for any commercial usage and neither it is for public.
 ```
 
 ## Checklist
-- [ ] FYP - Projection directly on real and imaginary part of FRF
+- [x] FYP - Projection directly on real and imaginary part of FRF
+- [ ] FYP - Projection on IRF
 - [ ] Automation - Prof. Chehade
 - [ ] Book
 
