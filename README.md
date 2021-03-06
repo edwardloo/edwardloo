@@ -13,7 +13,7 @@ It is not for any commercial usage and neither it is for public.
 - [x] FYP - Projection directly on real and imaginary part of FRF
 - [ ] FYP - Projection on IRF
 - [ ] Automation - Prof. Chehade
-- [x] Financing Book
+
 
 ## References on coloring | [HTML Hex Color Code](https://www.geeksforgeeks.org/html-hex-color-codes/)
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
