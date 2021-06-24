@@ -1,7 +1,7 @@
 # **Edward Loo:**
 
 > 👋 Hi, I am Edward Loo.  
-> 👀 I am interested in general knowledge and engineering.  
+> 👀 I am interested in general knowledge, programming and acoustics engineering.  
 > 📫 You can reach me at edward.loohp@gmail.com  
 
 ```MATLAB
@@ -11,8 +11,8 @@ It is not for any commercial usage and neither it is for public.
 
 ## Checklist
 - [x] FYP - Projection directly on real and imaginary part of FRF
-- [ ] FYP - Projection on IRF
-- [ ] Automation - Prof. Chehade
+- [x] FYP - Projection on IRF
+- [x] Automation - Prof. Chehade
 
 
 ## References on coloring | [HTML Hex Color Code](https://www.geeksforgeeks.org/html-hex-color-codes/)
