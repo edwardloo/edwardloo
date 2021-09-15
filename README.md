@@ -1,7 +1,7 @@
 # **Edward Loo:**
 
 > 👋 Hi, I am Edward Loo.  
-> 👀 I am interested in general knowledge, programming and acoustics engineering.  
+> 👀 I am interested in general knowledge, vibration and acoustics engineering.  
 > 📫 You can reach me at edward.loohp@gmail.com  
 
 ```MATLAB
