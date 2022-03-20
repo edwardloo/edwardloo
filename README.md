@@ -1,7 +1,7 @@
 # **Edward Loo:**
 
 > 👋 Hi, I am Edward Loo.  
-> 👀 I am interested in general knowledge, vibration and acoustics engineering.  
+> 👀 I am interested in general knowledge, data science, product development and engineering analysis.  
 > 📫 You can reach me at edward.loohp@gmail.com  
 
 ```MATLAB
@@ -10,9 +10,13 @@ It is not for any commercial usage and neither it is for public.
 ```
 
 ## Checklist
-- [x] FYP - Projection directly on real and imaginary part of FRF
-- [x] FYP - Projection on IRF
-- [x] Automation - Prof. Chehade
+- [x] 2D & 3D CAD
+- [x] MATLAB
+- [x] Python
+- [x] Signal Processing
+- [x] Machine Learning
+- [ ] Tableau
+- [ ] SQL
 
 
 ## References on coloring | [HTML Hex Color Code](https://www.geeksforgeeks.org/html-hex-color-codes/)
